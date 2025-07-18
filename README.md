@@ -8,8 +8,8 @@ I'm a passionate **WordPress Developer & Educator** with experience in **Element
 
 - 🌱 Currently learning: **JavaScript animation, AI integration in WordPress**
 - 🔭 Working on: **Cana Galilee (dating platform), Big Change Academy (education platform)**
-- 🌍 Languages: **HTML, CSS, JavaScript, PHP, English, Tigrinya**
-- 📫 How to reach me: **your.email@example.com**
+- 🌍 Languages: **HTML, CSS, JavaScript, PHP, python**
+- 📫 How to reach me: **atak2891@gmail.com**
 - ⚡ Fun fact: I once rebuilt a 500-page WordPress site in under a month!
 
 ## My Skills 🧠
@@ -45,6 +45,5 @@ I'm a passionate **WordPress Developer & Educator** with experience in **Element
 - ✉️ Email: atak2891@gmail.com
 
 ---
-
-![Thanks Gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
+ 
 
